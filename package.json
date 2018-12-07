@@ -1,0 +1,17 @@
+{
+  "name": "leon-vue-plugins",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+
+  },
+  "author": "linzhenjie",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.0.4"
+  }
+}
